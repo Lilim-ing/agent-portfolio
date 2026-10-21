@@ -133,7 +133,7 @@ cd mcp-member-ops && MCPOPS_ROLE=analyst mcpops serve
 | behaviors | 34,949 |
 | campaign_assignments | 9,600 |
 
-- 固定种子 `20261021`；六个仓库内附已生成的 fixtures（`data/fixtures/*.parquet`）
+- 固定种子 `20261021`；会员/订单相关仓库内附已生成的 fixtures（`data/fixtures/*.parquet`），fitwise 使用独立知识库，agent-evalkit 使用内置 toy agent
 - 分布参数为公开行业量级假设 + 人为设定，见相关仓库的 `docs/DATA_ASSUMPTIONS.md`
 - 商品为虚构系列，不对应任何真实货号
 
