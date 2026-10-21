@@ -68,7 +68,7 @@ flowchart LR
 
 ---
 
-## 实测（2026-10-21 全量验收）
+## 实测（全量验收）
 
 | 仓库 | 测试 | 合规 | 评测 | GitHub Actions |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ flowchart LR
 | mcp-member-ops | 18 passed | PASS | — | success |
 | **合计** | **157 passed** | **6/6 PASS** | — | **6/6 success** |
 
-所有数字来自 2026-10-21 的本地全量验收与各仓库 GitHub Actions 运行。
+所有数字来自本地全量验收与各仓库 GitHub Actions 运行。
 
 ### 两个值得单说的结论
 
